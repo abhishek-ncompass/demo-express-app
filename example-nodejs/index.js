@@ -5,7 +5,10 @@ const port = 3000
 app.get('/', (req, res) => {
   res.json({
     "hello": "world",
-    "abhishek":"Choudhary"
+    "abhishek":"Choudhary",
+    "Mayank": "Gupta",
+    "om": "Naladkar",
+    "M B": "Puneeth"
   })
 })
 
