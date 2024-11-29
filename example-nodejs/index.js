@@ -8,7 +8,8 @@ app.get('/', (req, res) => {
     "abhishek":"Choudhary",
     "Mayank": "Gupta",
     "om": "Naladkar",
-    "M B": "Puneeth"
+    "M B": "Puneeth",
+    "Mahesh": "Bharti"
   })
 })
 
