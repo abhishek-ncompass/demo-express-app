@@ -10,11 +10,10 @@ app.get('/', (req, res) => {
     "om": "Naladkar",
     "M B": "Puneeth",
     "Mahesh": "Bharti",
-    "hello": "world",
-    "hello": "world",
-    "hello": "world",
-    "hello": "world",
-    "Gunjan": "Garg"  
+    "Gunjan": "Garg",
+    "Mrigank": "Mukharjee",
+    "Himadri": "Das",
+    "Prasanna": "Srivasana"
   })
 })
 
